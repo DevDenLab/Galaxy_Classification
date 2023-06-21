@@ -50,19 +50,30 @@ This project utilizes several deep learning models for galaxy image classificati
    
 
 2. Inception_V3:
-   - Architecture: Pretrained InceptionV3 model with weights initialized from ImageNet.
+   - Architecture: Pretrained InceptionV3 model with weights initialized from ImageNet.Inception_V3 is a popular pre-trained CNN model architecture developed by Google.It is known for its efficiency and performance in image recognition tasks.It utilizes a combination of 1x1, 3x3, and 5x5 convolutions along with max pooling and auxiliary classifiers.
+The model has millions of trainable parameters and is suitable for complex image classification tasks.
    
 
 3. VGG16:
-   - Architecture: Pretrained VGG16 model with weights initialized from ImageNet.
+   - Architecture: Pretrained VGG16 model with weights initialized from ImageNet.VGG16 is another widely used pre-trained CNN model architecture.
+It was developed by the Visual Geometry Group (VGG) at the University of Oxford.
+VGG16 consists of 16 convolutional layers and 3 fully connected layers.
+It is known for its simplicity and uniformity in architecture, with 3x3 filters and max pooling layers.
+The model has a large number of trainable parameters and is effective in capturing fine-grained features.
    
 
 4. ResNet50:
-   - Architecture: Pretrained ResNet50 model with weights initialized from ImageNet.
+   - Architecture: Pretrained ResNet50 model with weights initialized from ImageNet. ResNet50 is a deep residual network architecture that won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2015.
+It introduces the concept of residual learning, which allows the network to learn residual mappings rather than direct mappings.
+ResNet50 consists of 50 convolutional layers and utilizes skip connections to address the problem of vanishing gradients.
+The model is known for its excellent performance in deep learning tasks and is widely used for image classification.
    
 
 5. Xception:
-   - Architecture: Pretrained Xception model with weights initialized from ImageNet.
+   - Architecture: Pretrained Xception model with weights initialized from ImageNet.Xception is another pre-trained CNN model architecture developed by Google.
+It is based on the concept of depthwise separable convolutions, which aim to capture spatial and channel-wise correlations separately.
+Xception has a similar structure to Inception, but with a greater emphasis on depthwise separable convolutions.
+The model is known for its efficiency, high accuracy, and ability to generalize well on various image recognition tasks.
    
 
 <!--## Getting Started
