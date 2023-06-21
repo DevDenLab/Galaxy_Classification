@@ -21,7 +21,7 @@ The dataset is located in the `data/` directory
 
 <!-- The dataset is balanced, meaning that it contains an equal number of images for each galaxy class. This ensures that the models are trained and evaluated on a representative distribution of classes. -->
 ## Model Performace 
-![Alt Text](path/to/perform_table.jpg)
+![Alt Text](perform_table.jpg)
 
 ## Models Used
 
