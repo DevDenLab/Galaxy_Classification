@@ -47,48 +47,23 @@ This project utilizes several deep learning models for galaxy image classificati
 
 1. CNN_Model-2.1:
    - Architecture: Custom CNN model with multiple convolutional and pooling layers.
-   - Training Loss: 0.0396
-   - Training Accuracy: 0.9862
-   - Validation Loss: 0.3149
-   - Validation Accuracy: 0.9156
-   - Test Loss: 0.0912
-   - Test Accuracy: 0.9730
+   
 
 2. Inception_V3:
    - Architecture: Pretrained InceptionV3 model with weights initialized from ImageNet.
-   - Training Loss: 0.0298
-   - Training Accuracy: 0.9899
-   - Validation Loss: 0.2171
-   - Validation Accuracy: 0.9534
-   - Test Loss: 0.7215
-   - Test Accuracy: 0.8210
+   
 
 3. VGG16:
    - Architecture: Pretrained VGG16 model with weights initialized from ImageNet.
-   - Training Loss: 0.0324
-   - Training Accuracy: 0.9884
-   - Validation Loss: 1.1052
-   - Validation Accuracy: 0.8306
-   - Test Loss: 0.3729
-   - Test Accuracy: 0.9320
+   
 
 4. ResNet50:
    - Architecture: Pretrained ResNet50 model with weights initialized from ImageNet.
-   - Training Loss: 0.0745
-   - Training Accuracy: 0.9731
-   - Validation Loss: 0.1239
-   - Validation Accuracy: 0.9578
-   - Test Loss: 0.0900
-   - Test Accuracy: 0.9650
+   
 
 5. Xception:
    - Architecture: Pretrained Xception model with weights initialized from ImageNet.
-   - Training Loss: 0.2763
-   - Training Accuracy: 0.8885
-   - Validation Loss: 0.1924
-   - Validation Accuracy: 0.9369
-   - Test Loss: 0.2838
-   - Test Accuracy: 0.8910
+   
 
 <!--## Getting Started
 
